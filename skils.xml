@@ -1,0 +1,19 @@
+<skills>
+	<hardSkills>
+		<skill>Working with git</skill>
+		<skill>Testing API</skill>
+		<skill>Testing API with Postman</skill>
+		<skill>Bash scripting</skill>
+		<skill>Basic knowledge of SQL</skill>
+		<skill>Performance testing with Jmetr</skill>
+	</hardSkills>
+	<softSkills>
+		<skill>Communication in the team</skill>
+		<skill>Mentoring</skill>
+		<skill>Presenting</skill>
+	</softSkills>
+</skills>
+
+
+
+
